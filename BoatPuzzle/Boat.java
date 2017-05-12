@@ -14,7 +14,7 @@ public class Boat
     
     public void move()
     {
-        System.out.print("drift ");
+        System.out.print("drift with the tide");
     }
 }
 
